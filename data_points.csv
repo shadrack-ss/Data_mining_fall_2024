@@ -1,0 +1,101 @@
+applicantName,salutation,gender,email,mobile_numbers,maritalStatus,religion,date_of_birth,disability,nationality,districtOfOrigin,districtOfBirth,placeOfResidence,nationalIdNo,addressVillage,addressSubCounty,addressDistrict
+John Doe,Mr.,M,johndoe@gmail.com,256701234567,Single,Christian,1990-01-15,Visual Impairment,Ugandan,Kampala,Kampala,Kampala,CM7901234567UG,Kibuye,Makindye,Kampala
+Mary Akena,Ms.,F,maryakena@gmail.com,256712345678,Married,Muslim,1985-03-22,none,Ugandan,Gulu,Gulu,Jinja,CM8902345678UG,Bweyogerere,Kira,Jinja
+Samuel Katumba,Mr.,M,samuelkatumba@gmail.com,256723456789,Single,Christian,1992-07-30,none,Ugandan,Arua,Arua,Entebbe,CF9903456789UG,Kitintale,Nakawa,Entebbe
+Grace Nakato,Ms.,F,gracenakato@gmail.com,256734567890,Married,Traditional,1988-11-05,none,Ugandan,Mbarara,Mbarara,Mbarara,CM1904567890UG,Nyamityobora,Kamukuzi,Mbarara
+Peter Okello,Mr.,M,peterokello@gmail.com,256745678901,Divorced,Christian,1995-06-18,none,Ugandan,Lira,Lira,Gulu,CF2905678901UG,Pece,Pece,Gulu
+Anna Babirye,Ms.,F,annababirye@gmail.com,256756789012,Single,Muslim,1980-02-14,none,Ugandan,Jinja,Jinja,Fort Portal,CM3906789012UG,Kasusu,West Division,Fort Portal
+James Kato,Mr.,M,jameskato@gmail.com,256767890123,Married,Christian,1993-09-27,none,Ugandan,Mbale,Mbale,Arua,CF4907890123UG,Kuluva,Ayivu,Arua
+Sarah Laker,Ms.,F,sarahlaker@gmail.com,256778901234,Divorced,Traditional,1987-12-01,none,Ugandan,Masaka,Masaka,Lira,CM5908901234UG,Adekokwok,Adekokwok,Lira
+Josephine Nakaayi,Ms.,F,josephinenakaayi@gmail.com,256789012345,Single,Christian,1991-04-20,Chronic Pain,Ugandan,Fort Portal,Fort Portal,Mbale,CF6949012345UG,Namatala,Northern Division,Mbale
+Andrew Obote,Mr.,M,andrewobote@gmail.com,256790123456,Married,Muslim,1986-08-11,none,Ugandan,Hoima,Hoima,Soroti,CM7900123456UG,Kichinjaji,Eastern Division,Soroti
+Catherine Alupo,Ms.,F,catherinealupo@gmail.com,256801234567,Single,Christian,1994-05-09,none,Ugandan,Soroti,Soroti,Hoima,CF8901234567UG,Kiryatete,Hoima Central,Hoima
+Michael Kintu,Mr.,M,michaelkintu@gmail.com,256812345678,Married,Traditional,1989-10-30,none,Ugandan,Tororo,Tororo,Kasese,CM9902345678UG,Kisinga,Bukonzo,Kasese
+Esther Amoding,Ms.,F,estheramoding@gmail.com,256823456789,Divorced,Christian,1996-03-03,none,Ugandan,Kitgum,Luwero,Masaka,CF0903456789UG,Kijjabwemi,Kimanya,Masaka
+David Mukasa,Mr.,M,davidmukasa@gmail.com,256834567890,Single,Muslim,1983-07-25,none,Ugandan,Moroto,Mukono,Iganga,CM1909667890UG,Bugumba,Iganga Central,Iganga
+Irene Kyomugisha,Ms.,F,irenekyomugisha@gmail.com,256845678901,Married,Christian,1990-12-12,Mental Health Disorders,Ugandan,Bushenyi,Wakiso,Kabale,CF2905678902UG,Kirigime,Northern Division,Kabale
+Emmanuel Odoi,Mr.,M,emmanuelodoi@gmail.com,256856789012,Single,Traditional,1982-01-28,none,Ugandan,Kabarole,Nakapiripirit,Tororo,CM3906779013UG,Nyangole,Tororo Municipality,Tororo
+Beatrice Nantongo,Ms.,F,beatricenantongo@gmail.com,256867890123,Married,Christian,1995-08-19,none,Ugandan,Kasese,Mityana,Mityana,CF4907890124UG,Kigalama,Busimbi,Mityana
+Paul Lumumba,Mr.,M,paullumumba@gmail.com,256878901234,Divorced,Muslim,1984-06-07,none,Ugandan,Iganga,Mayuge,Wakiso,CM5908901235UG,Nakawuka,Wakiso Town Council,Wakiso
+Fiona Atim,Ms.,F,fionaatim@gmail.com,256889012345,Single,Christian,1991-11-23,none,Ugandan,Luwero,Kitgum,Mukono,CF6909012346UG,Namanve,Mukono Central,Mukono
+Simon Byaruhanga,Mr.,M,simonbyaruhanga@gmail.com,256890123456,Married,Traditional,1987-02-16,none,Ugandan,Mukono,Moroto,Mpigi,CM7900123457UG,Kiringente,Kiringente,Mpigi
+Nancy Abbo,Ms.,F,nancyabbo@gmail.com,256901234567,Single,Christian,1993-04-15,none,Ugandan,Wakiso,Bushenyi,Luwero,CF8901234568UG,Zirobwe,Luwero Subcounty,Luwero
+Joseph Lukwago,Mr.,M,josephlukwago@gmail.com,256912345678,Divorced,Muslim,1986-09-29,none,Ugandan,Nakapiripirit,Kabarole,Kamuli,CM9902345679UG,Butansi,Butansi,Kamuli
+Brenda Nandutu,Ms.,F,brendanandutu@gmail.com,256923456789,Married,Christian,1990-10-05,none,Ugandan,Mityana,Kasese,Pallisa,CF0903456689UG,Kamuge,Kamuge,Pallisa
+Charles Ssemanda,Mr.,M,charlesssemanda@gmail.com,256934567890,Single,Traditional,1981-05-14,none,Ugandan,Mayuge,Iganga,Bushenyi,CM1904567891UG,Nyakabirizi,Igara West,Bushenyi
+Emily Namuli,Ms.,F,emilynamuli@gmail.com,256945678901,Married,Christian,1992-12-30,none,Ugandan,Oyam,Kabale,Ntungamo,CF2905678903UG,Ruhaama,Rubaare,Ntungamo
+Ronald Kaggwa,Mr.,M,ronaldkaggwa@gmail.com,256956789012,Single,Muslim,1985-03-18,none,Ugandan,Adjumani,Rukungiri,Rukungiri,CM3906789014UG,Bikurungu,Buyanja,Rukungiri
+Patricia Namutebi,Ms.,F,patricianamutebi@gmail.com,256967890123,Married,Christian,1994-07-22,none,Ugandan,Kagadi,Pallisa,Nakasongola,CF4907890125UG,Wabinyonyi,Nakasongola,Nakasongola
+Alex Mugisha,Mr.,M,alexmugisha@gmail.com,256978901234,Divorced,Traditional,1988-11-11,none,Ugandan,Kalangala,Katakwi,Kaberamaido,CM5955901236UG,Obolokome,Obolokome,Kaberamaido
+Florence Bukenya,Ms.,F,florencebukenya@gmail.com,256989012345,Single,Christian,1991-06-09,none,Ugandan,Kiboga,Kamuli,Apac,CF6909012347UG,Atik,Atik,Apac
+Henry Musoke,Mr.,M,henrymusoke@gmail.com,256990123456,Married,Muslim,1980-02-25,none,Ugandan,Kyegegwa,Ntungamo,Bugiri,CM7900123458UG,Nabukalu,Bugiri Central,Bugiri
+Dorah Tendo,Ms.,F,dorah tendo@gmail.com,256100123456,Single,Christian,1996-01-04,none,Ugandan,Mpigi,Luwero,Nebbi,CF8901239567UG,Pakwach,Panyango,Nebbi
+Martin Kakuru,Mr.,M,martinkakuru@gmail.com,256110234567,Married,Traditional,1989-08-17,none,Ugandan,Butambala,Mukono,Kitgum,CM9902345680UG,Lamit,Kitgum Matidi,Kitgum
+Betty Akello,Ms.,F,bettyakello@gmail.com,256120345678,Divorced,Christian,1993-10-21,none,Ugandan,Rakai,Wakiso,Moroto,CF0903456790UG,Lotome,Rupa,Moroto
+Frank Tumusiime,Mr.,M,franktumusiime@gmail.com,256130456789,Single,Muslim,1987-12-14,none,Ugandan,Kyankwanzi,Nakapiripirit,Kapchorwa,CM1904367891UG,Kwoti,Kwoti,Kapchorwa
+Phiona Mirembe,Ms.,F,phionamirembe@gmail.com,256140567890,Married,Christian,1995-05-06,none,Ugandan,Buliisa,Mityana,Kalangala,CF2905678904UG,Lulindi,Kalangala Town,Kalangala
+Brian Kizito,Mr.,M,briankizito@gmail.com,256150678901,Single,Traditional,1983-09-12,none,Ugandan,Kumi,Mayuge,Amuru,CM3906723015UG,Pabbo,Amuru Subcounty,Amuru
+Agnes Nalubega,Ms.,F,agnesnalubega@gmail.com,256160789012,Married,Christian,1990-03-30,none,Ugandan,Attica,Oyam,Kisoro,CF4907890126UG,Nyakabande,Nyakabande,Kisoro
+Steven Ocen,Mr.,M,stevenocen@gmail.com,256170890123,Single,Muslim,1984-11-19,none,Ugandan,Lisbon,Adjumani,Adjumani,CM5908901237UG,Pakelle,Pakele,Adjumani
+Lydia Nankunda,Ms.,F,lydianankunda@gmail.com,256180901234,Divorced,Christian,1992-08-01,none,Ugandan,Geneva,Kagadi,Masindi,CF6909012326UG,Kinyara,Masindi Town,Masindi
+Daniel Kirunda,Mr.,M,danielkirunda@gmail.com,256190012345,Married,Traditional,1986-02-22,none,Ugandan,Szeged,Kalangala,Buliisa,CM7900123459UG,Bugoigo,Buliisa Subcounty,Buliisa
+Ruth Ayebare,Ms.,F,ruthayebare@gmail.com,256200123456,Single,Christian,1991-07-15,none,Ugandan,Bucharest,Kiboga,Kiboga,CF8901234569UG,Kyakabadiima,Kyakabadiima,Kiboga
+Patrick Kamoga,Mr.,M,patrickkamoga@gmail.com,256210234567,Married,Muslim,1988-10-28,none,Ugandan,Sofia,Kyegegwa,Rakai,CM9902345681UG,Byakabanda,Byakabanda,Rakai
+Gladys Mwaka,Ms.,F,gladysmwaka@gmail.com,256220345678,Single,Christian,1994-04-09,none,Greek,Bratislava,Mpigi,Lyantonde,CF0903456791UG,Nabigasa,Nabigasa,Lyantonde
+Derrick Otim,Mr.,M,derrickotim@gmail.com,256230456789,Divorced,Traditional,1982-12-05,none,Portuguese,Zagreb,Butambala,Sembabule,CM1904567892UG,Mijwala,Mijwala,Sembabule
+Olive Nanziri,Ms.,F,olivenanziri@gmail.com,256240567890,Single,Christian,1990-01-19,none,Swiss,Belgrade,Rakai,Kyotera,CF2905678905UG,Buyamba,Buyamba,Kyotera
+Geoffrey Nsubuga,Mr.,M,geoffreynsubuga@gmail.com,256250678901,Married,Muslim,1985-06-30,none,Ugandan,Ljubljana,Kyankwanzi,Kyenjojo,CM3906789016UG,Nyantungo,Nyantungo,Kyenjojo
+Doreen Apio,Ms.,F,doreenapio@gmail.com,256260789012,Single,Christian,1993-09-14,none,Ugandan,Kiev,Buliisa,Kibale,CF4907890127UG,Kasambya,Kasambya Subcounty,Kibale
+Elijah Kiyimba,Mr.,M,elijahkiyimba@gmail.com,256270890123,Married,Traditional,1987-03-21,Hearing Impairment,Hungarian,Vilnius,Kumi,Kaliro,CM5908901238UG,Bugulumbya,Bugulumbya,Kaliro
+Mildred Namaganda,Ms.,F,mildrednamaganda@gmail.com,256280901234,Divorced,Christian,1996-11-11,none,Romanian,Riga,Attica,Buvuma,CF6909012348UG,Busamuzi,Busamuzi,Buvuma
+Wilberforce Muwonge,Mr.,M,wilberforcemuwonge@gmail.com,256290012345,Single,Muslim,1981-05-27,none,Bulgarian,Bogotá,Lisbon,Bukomansimbi,CM7900123460UG,Butenga,Bukomansimbi,Bukomansimbi
+Susan Lule,Ms.,F,susanlule@gmail.com,256300123456,Married,Christian,1992-02-18,none,Slovak,Reykjavik,Geneva,Butambala,CF8901234570UG,Bulo,Bulo,Butambala
+Moses Kiiza,Mr.,M,moseskiiza@gmail.com,256310234567,Divorced,Traditional,1989-07-09,none,Croatian,Valletta,Szeged,Buhweju,CM9905345679UG,Bihanga,Bihanga,Buhweju
+Vivian Kemigisha,Ms.,F,viviankemigisha@gmail.com,256320345678,Single,Christian,1994-12-24,none,Serbian,Auckland,Bucharest,Kibaale,CF0903459989UG,Kikwaya,Kikwaya,Kibaale
+Anthony Adong,Mr.,M,anthonyadong@gmail.com,256330456789,Married,Muslim,1986-08-30,none,Slovenian,Plovdiv,Sofia,Manafwa,CM1904567893UG,Bunabwana,Bunambutye,Manafwa
+Rachael Aine,Ms.,F,rachaelaine@gmail.com,256340567890,Single,Christian,1990-03-15,none,Ukrainian,Tongatapu,Bratislava,Ntoroko,CF2905678906UG,Kisenyi,Kisenyi,Ntoroko
+George Kabugo,Mr.,M,georgekabugo@gmail.com,256350678901,Married,Traditional,1984-10-02,none,Lithuanian,Port Moresby,Zagreb,Rubirizi,CM3906789017UG,Katanda,Katanda,Rubirizi
+Hellen Nakyejwe,Ms.,F,hellennakyejwe@gmail.com,256360789012,Divorced,Christian,1991-01-26,none,Latvian,Nairobi,Belgrade,Namayingo,CF4907890763UG,Hamatuba,Hamatuba,Namayingo
+Denis Tumwine,Mr.,M,denistumwine@gmail.com,256370890123,Single,Muslim,1983-05-11,none,Colombiana,Kuala Lumpur,Ljubljana,Buliisa,CM5908901239UG,Biso,Biso,Amolatar
+Juliet Akullu,Ms.,F,julietakullu@gmail.com,256380901234,Married,Christian,1995-09-19,none,Icelandic,Bandar Seri Begawan,Kiev,Amolatar,CF6909012349UG,Bujubuli,Bujubuli,Kyegegwa
+Allan Kagimu,Mr.,M,allankagimu@gmail.com,256390012345,Single,Traditional,1988-06-14,none,Maltese,Phnom Penh,Vilnius,Kyegegwa,CM7900123461UG,Kasangombe,Kasangombe,Nakaseke
+Harriet Nabaasa,Ms.,F,harrietnabaasa@gmail.com,256400123456,Divorced,Christian,1993-11-07,none,New Zealander,Yangon,Riga,Nakaseke,CF8901234571UG,Lugasa,Lugasa,Kayunga
+Richard Mugabi,Mr.,M,richardmugabi@gmail.com,256410234567,Single,Muslim,1980-04-22,none,Bulgarian,Kabul,Bogotá,Kayunga,CM9902345682UG,Namaseke,Ntenjeru,Buyende
+Priscilla Akumu,Ms.,F,priscillaakumu@gmail.com,256420345678,Married,Christian,1996-08-05,none,Ugangan,Beirut,Reykjavik,Buyende,CF0903456792UG,Bukamba,Bukamba,Budaka
+Kenneth Ojara,Mr.,M,kennethojara@gmail.com,256430456789,Single,Traditional,1987-12-18,none,Tongan,Belgrade,Valletta,Budaka,CM1904567871UG,Naboa,Budaka Town Council,Bududa
+Monica Namono,Ms.,F,monicanamono@gmail.com,256440567890,Married,Christian,1992-02-09,none,Papua New Guinean,New York,Auckland,Bududa,CF2905678907UG,Simu,Simu,Bulambuli
+Ivan Kabanda,Mr.,M,ivankabanda@gmail.com,256450678901,Divorced,Muslim,1985-03-12,none,Kenyan,Freetown,Plovdiv,Bulambuli,CM3906789018UG,Bulegeni,Bulegeni,Kween
+Shadia Namukasa,Ms.,F,shadianamukasa@gmail.com,256460789012,Single,Christian,1994-07-27,none,Malaysian,Tel Aviv,Tongatapu,Kween,CF4307890128UG,Kaptum,Kaproron,Bukedea
+Christopher Mutyaba,Mr.,M,christophermutyaba@gmail.com,256470890123,Married,Traditional,1989-10-15,none,Ugandan,Ramallah,Port Moresby,Bukedea,CM5908901240UG,Arabet,Arabet,Lamwo
+Judith Ayoo,Ms.,F,judithayoo@gmail.com,256480901234,Single,Christian,1991-06-21,none,Bruneian,Amman,Nairobi,Lamwo,CF6909012350UG,Padibe,Padibe,Dokolo
+Francis Okumu,Mr.,M,francisokumu@gmail.com,256490012345,Married,Muslim,1986-01-30,none,Cambodian,Damascus,Kuala Lumpur,Dokolo,CM7900123462UG,Batta,Batta,Nwoya
+Miriam Nampijja,Ms.,F,miriamnampijja@gmail.com,256500123456,Divorced,Christian,1990-09-04,none,Uganda,Baghdad,Bandar Seri Begawan,Nwoya,CF8901234572UG,Purongo,Purongo,Otuke
+Nicholas Bwambale,Mr.,M,nicholasbwambale@gmail.com,256510234567,Single,Traditional,1983-11-29,none,Burmese,Port-au-Prince,Phnom Penh,Otuke,CM9902345683UG,Otuke Town,Otuke Subcounty,Amuria
+Grace Namusoke,Ms.,F,gracenamusoke@gmail.com,256520345678,Married,Christian,1995-05-17,none,Afghan,Santo Domingo,Yangon,Amuria,CF0903456793UG,Wera,Wera,Katakwi
+Patrick Nsubuga,Mr.,M,patricknsubuga@gmail.com,256530456789,Divorced,Muslim,1988-02-14,Mobility Impairment,Lebanese,San José,Kabul,Katakwi,CM1906367891UG,Ngariam,Ngariam,Sironko
+Gloria Ayo,Ms.,F,gloriaayo@gmail.com,256540567890,Single,Christian,1992-12-08,none,Bulgaria,Panama City,Beirut,Sironko,CF2905678908UG,Budadiri,Budadiri,Alebtong
+Robert Kanyike,Mr.,M,robertkanyike@gmail.com,256550678901,Married,Traditional,1981-08-23,none,Serbian,Guatemala City,Belgrade,Alebtong,CM3906789019UG,Akura,Akura,Bukwa
+Winnie Kabahuma,Ms.,F,winniekabahuma@gmail.com,256560789012,Single,Christian,1993-04-11,Cognitiv Disability,American,Ulaanbaatar,New York,Bukwa,CF4907890129UG,Chepsikunya,Kaptum,Kabong
+Lawrence Odong,Mr.,M,lawrenceodong@gmail.com,256570890123,Married,Muslim,1987-10-30,none,Sierra LeoneanIsraeli,Nabul,Freetown,Kisoro,CM5908901241UG,Nyabwishenya,Nyabwishenya,Zombo
+Charity Ndagire,Ms.,F,charityndagire@gmail.com,256580901234,Divorced,Christian,1996-01-19,none,Palestinian,Varna,Tel Aviv,Kabong,CF6909012351UG,Kacheri,Kacheri,Kagadi
+Innocent Kirya,Mr.,M,innocentkirya@gmail.com,256590012345,Single,Traditional,1984-06-05,none,Jordanian,Colombo,Ramallah,Zombo,CM7900123463UG,Nyapea,Nyapea,Sheema
+Fatuma Nalwanga,Ms.,F,fatumanalwanga@gmail.com,256600123456,Married,Christian,1990-03-22,none,Lebanese,Tripoli,Amman,Kagadi,CF8901234573UG,Nyamacumu,Muhoro,Ibanda
+Jackson Mbabazi,Mr.,M,jacksonmbabazi@gmail.com,256610234567,Single,Muslim,1989-09-15,none,Syrian,Brooklyn,Damascus,Sheema,CM9902345684UG,Masha,Kazo Subcounty,Kazo
+Margret Okumu,Ms.,F,margretokumu@gmail.com,256620345678,Married,Christian,1994-12-02,none,Iraqi,Nakuru,Baghdad,Ibanda,CF0903456794UG,Rwengiri,Rwengiri,Kiruhura
+Emmanuel Bukenya,Mr.,M,emmanuelbukenya@gmail.com,256630456789,Single,Traditional,1986-07-18,none,Haitian,Moshi,Port-au-Prince,Kazo,CM1904547891UG,Katunguru,Katunguru,Isingiro
+Christine Awor,Ms.,F,christineawor@gmail.com,256640567890,Divorced,Christian,1991-05-29,none,Dominican,Dodoma,Santo Domingo,Kiruhura,CF2905678909UG,Kabura,Nyamarwa,Rubanda
+Stephen Nyeko,Mr.,M,stephennyeko@gmail.com,256650678901,Single,Muslim,1982-11-10,none,Costa Rican,Kitgum,San José,Isingiro,CM3906789020UG,Nyakitunda,Kabuyanda,Kumi
+Sharon Nabwire,Ms.,F,sharonnabwire@gmail.com,256660789012,Married,Christian,1995-08-25,none,Panamanian,Kaberamaido,Panama City,Rubanda,CF4905780123UG,Hamurwa,Hamurwa,Kotido
+Samuel Kagwa,Mr.,M,samuelkagwa@gmail.com,256670890123,Divorced,Traditional,1988-01-14,none,Guatemalan,Kayunga,Guatemala City,Kumi,CM5908901242UG,Kobwin,Kobwin,Agago
+Rebecca Nalwoga,Ms.,F,rebeccanabwoga@gmail.com,256680901234,Single,Christian,1993-06-30,none,Mongolian,Apac,Ulaanbaatar,Kotido,CF6909012352UG,Kanawat,Kotido Subcounty,Obongi
+Wilson Katende,Mr.,M,wilsonkatende@gmail.com,256690012345,Married,Muslim,1987-04-17,none,ugandan,Alebtong,Nabul,Agago,CM7900123464UG,Lamogi,Lamogi,Pakwach
+Janet Katushabe,Ms.,F,janetkatushabe@gmail.com,256700123456,Single,Christian,1992-10-09,none,Bulgarian,Masindi,Varna,Obongi,CF8901234574UG,Obongi Town,Obongi Town Council,Madi-Okollo
+Amos Oryema,Mr.,M,amosoryema@gmail.com,256710234567,Divorced,Traditional,1980-02-20,none,Sri Lankan,Kaliro,Colombo,Pakwach,CM9902345685UG,Panyimur,Panyimur,Omoro
+Diana Namara,Ms.,F,diananamara@gmail.com,256720345678,Married,Christian,1996-07-12,none,Lebanese,Isingiro,Tripoli,Madi-Okollo,CF0903456795UG,Alikua,Alikua,Butaleja
+Ibrahim Mutebi,Mr.,M,ibrahimmutebi@gmail.com,256730456789,Single,Muslim,1983-12-01,none,Afro-American,Kiruhura,Brooklyn,Omoro,CM1904567894UG,Bobbi,Odek,Tororo
+Sylvia Nabiryo,Ms.,F,sylvianabiryo@gmail.com,256740567890,Married,Christian,1990-05-15,none,Ugandan,Kamwenge,Nakuru,Butaleja,CF2905678910UG,Busaba,Busaba,Busia
+Victor Mubiru,Mr.,M,victormubiru@gmail.com,256750678901,Single,Christian,1985-03-28,none,Kenyan,Bukomansimbi,Moshi,Tororo,CM3906789021UG,Sere,Butaleja Town Council,Mubende
+Norah Nakabugo,Ms.,F,norahnakabugo@gmail.com,256760789012,Divorced,Muslim,1994-09-19,none,Tanzanian,Kalungu,Dodoma,Busia,CF0903456889UG,Majanji,Majanji,Kalungu
+Denis Bwanika,Mr.,M,denisbwanika@gmail.com,256770890123,Married,Christian,1989-11-14,none,Ugandan,Lyantonde,Kitgum,Mubende,CM1904567920UG,Kasambya,Kasambya,Maracha
+Gloria Mukisa,Ms.,F,gloriamukisa@gmail.com,256780901234,Single,Traditional,1991-06-03,Speech Impairment,Ugandan,Rubanda,Kaberamaido,Kalungu,CF2905678651UG,Lwamata,Lwamata,Kibuku
+Fred Kalungi,Mr.,M,fredkalungi@gmail.com,256790012345,Married,Christian,1986-01-22,none,Ugandan,Sheema,Kayunga,Maracha,CM3906789087UG,Kawango,Mubende Subcounty,Ngora
